@@ -1,0 +1,2407 @@
+{
+  "plays": [
+    {
+      "_id": "5706548bf750a81100625fe3",
+      "title": "showgirls",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "nudity",
+          "count": 1
+        },
+        {
+          "name": "Elizabeth Berkley",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Kyle MacLachlan",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570655c921199111006494c5",
+      "title": "two moon junction",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "nudity",
+          "count": 1
+        },
+        {
+          "name": "Sherilyn Fenn",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Richard Tyson",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Romance",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570656b521199111006494c7",
+      "title": "nymphomaniac",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "von trier",
+          "count": 1
+        },
+        {
+          "name": "Raven Alexis",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Breanne Benson",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adult",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706571521199111006494c8",
+      "title": "shine",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "soundtrack",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "musicians"
+        },
+        {
+          "name": "Geoffrey Rush",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Justin Braine",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Biography",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Music",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706574521199111006494c9",
+      "title": "ray",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "musicians",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "jamie foxx"
+        },
+        {
+          "name": "Jamie Foxx",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Kerry Washington",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Biography",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Music",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570658dc3029651100d23814",
+      "title": "american psycho",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "actor",
+          "count": 1
+        },
+        {
+          "name": "psycho character",
+          "count": 1
+        },
+        {
+          "name": "christian bale",
+          "count": 1
+        },
+        {
+          "name": "Christian Bale",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Justin Theroux",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570659323029651100d23815",
+      "title": "friday the 13th",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "character",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "nudity"
+        },
+        {
+          "name": "Betsy Palmer",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adrienne King",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570659673029651100d23816",
+      "title": "beetlejuice",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "cult movies",
+          "count": 1
+        },
+        {
+          "name": "tim burton",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "horror"
+        },
+        {
+          "count": 1,
+          "name": "comedy"
+        },
+        {
+          "name": "Alec Baldwin",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Geena Davis",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065a005cfdf21100b96fce",
+      "title": "dracula",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "horror",
+          "count": 1
+        },
+        {
+          "name": "classic",
+          "count": 1
+        },
+        {
+          "name": "Bela Lugosi",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Helen Chandler",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065a135cfdf21100b96fcf",
+      "title": "rashomon",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "classic",
+          "count": 1
+        },
+        {
+          "name": "japanes",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "multiple points of view"
+        },
+        {
+          "name": "Toshirô Mifune",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Machiko Kyô",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065ac35cfdf21100b96fd1",
+      "title": "from dusk till dawn",
+      "__v": 3,
+      "likes": [
+        {
+          "name": "quentin tarantino",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "plot twist"
+        },
+        {
+          "count": 1,
+          "name": "vampir"
+        },
+        {
+          "count": 1,
+          "name": "vampires"
+        },
+        {
+          "name": "George Clooney",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Quentin Tarantino",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065cae1e1c641100eaae7f",
+      "title": "the twilight",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "vampires",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "cheesy"
+        },
+        {
+          "name": "Rod Serling",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065d3a1e1c641100eaae81",
+      "title": "the fly",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "jeff goldblum",
+          "count": 1
+        },
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "name": "Jeff Goldblum",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Geena Davis",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065e401e1c641100eaae82",
+      "title": "oldboy",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "plot twist",
+          "count": 1
+        },
+        {
+          "name": "acting",
+          "count": 1
+        },
+        {
+          "name": "Min-sik Choi",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Ji-tae Yu",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065e5f1e1c641100eaae83",
+      "title": "south park",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "obscene",
+          "count": 1
+        },
+        {
+          "name": "comedy",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "animation"
+        },
+        {
+          "name": "Trey Parker",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Matt Stone",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065ee51e1c641100eaae84",
+      "title": "the simpsons",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "animation",
+          "count": 1
+        },
+        {
+          "name": "comedy",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "satire"
+        },
+        {
+          "count": 1,
+          "name": "cartoon"
+        },
+        {
+          "name": "Dan Castellaneta",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Julie Kavner",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570660c90c533f1100fe8785",
+      "title": "animaniacs",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "animation",
+          "count": 1
+        },
+        {
+          "name": "cartoon",
+          "count": 1
+        },
+        {
+          "name": "musical",
+          "count": 1
+        },
+        {
+          "name": "music",
+          "count": 1
+        },
+        {
+          "name": "Rob Paulsen",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Tress MacNeille",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Family",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570662fcdd0a49110030c4fc",
+      "title": "alien",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "name": "horror",
+          "count": 1
+        },
+        {
+          "name": "alien",
+          "count": 1
+        },
+        {
+          "name": "Tom Skerritt",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Sigourney Weaver",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57066334dd0a49110030c4fd",
+      "title": "pan’s labyrinth",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "fantasy",
+          "count": 1
+        },
+        {
+          "name": "horror",
+          "count": 1
+        },
+        {
+          "name": "Ivana Baquero",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Sergi López",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "War",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57066cd9f1263f1100aafdb3",
+      "title": "alice in wonderland",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "fantasy",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "tim burton"
+        },
+        {
+          "name": "Johnny Depp",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Mia Wasikowska",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Family",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706704910d6461100fa3871",
+      "title": "true romance",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "romance",
+          "count": 1
+        },
+        {
+          "name": "Christian Slater",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Patricia Arquette",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706713210d6461100fa3872",
+      "title": "fight club",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "david fincher",
+          "count": 1
+        },
+        {
+          "name": "twisted ending",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "ending scene"
+        },
+        {
+          "name": "Edward Norton",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Brad Pitt",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57067eef48f90111001c3338",
+      "title": "mad men",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "tv show",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "players"
+        },
+        {
+          "name": "Jon Hamm",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Elisabeth Moss",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57067fe747748311005146c6",
+      "title": "eraserhead",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "cult movies",
+          "count": 1
+        },
+        {
+          "name": "grotesque",
+          "count": 1
+        },
+        {
+          "name": "david lynch",
+          "count": 1
+        },
+        {
+          "name": "Jack Nance",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Charlotte Stewart",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Horror",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570684ae74350f11003e80e1",
+      "title": "deadpool",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "superheroes",
+          "count": 1
+        },
+        {
+          "name": "Ryan Reynolds",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Karan Soni",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570686790459a5110074980d",
+      "title": "the godfather",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "crime",
+          "count": 1
+        },
+        {
+          "name": "al pacino",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "it’s a violent movie"
+        },
+        {
+          "count": 1,
+          "name": "violence"
+        },
+        {
+          "name": "Marlon Brando",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Al Pacino",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57068b2731b5f911000d75a8",
+      "title": "gilmore girls",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "bledel",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "Edward Herrmann"
+        },
+        {
+          "count": 1,
+          "name": "Kelly Bishop"
+        },
+        {
+          "name": "Lauren Graham",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Alexis Bledel",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570692685ecc671100a04736",
+      "title": "how i met your mother",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "sitcom",
+          "count": 1
+        },
+        {
+          "name": "comedy",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "player character"
+        },
+        {
+          "name": "Josh Radnor",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Jason Segel",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Romance",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570692bb5ecc671100a04737",
+      "title": "batman",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "superheroes",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "on comics"
+        },
+        {
+          "count": 1,
+          "name": "comics"
+        },
+        {
+          "name": "Michael Keaton",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Jack Nicholson",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706956b3255181100bb7a22",
+      "title": "superman",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "superheroes",
+          "count": 1
+        },
+        {
+          "name": "Marlon Brando",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Gene Hackman",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706a1485e77d011005c77ce",
+      "title": "powerpuff girls",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "animation",
+          "count": 1
+        },
+        {
+          "name": "Cathy Cavadini",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Elizabeth Daily",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706535b05e77a110000a27b",
+      "title": "the lobster",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "quirky",
+          "count": 1
+        },
+        {
+          "name": "dystopian",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "farrell"
+        },
+        {
+          "name": "Jacqueline Abrahams",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Roger Ashton-Griffiths",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Romance",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065475f750a81100625fe2",
+      "title": "the room",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "cult movies",
+          "count": 1
+        },
+        {
+          "name": "comedy",
+          "count": 1
+        },
+        {
+          "name": "nudity",
+          "count": 1
+        },
+        {
+          "name": "Tommy Wiseau",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Juliette Danielle",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706564b21199111006494c6",
+      "title": "melancholia",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "soundtrack",
+          "count": 1
+        },
+        {
+          "name": "trier",
+          "count": 1
+        },
+        {
+          "name": "wagner",
+          "count": 1
+        },
+        {
+          "name": "visual",
+          "count": 1
+        },
+        {
+          "name": "artistic",
+          "count": 1
+        },
+        {
+          "name": "Kirsten Dunst",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "von trier"
+        },
+        {
+          "count": 1,
+          "name": "nudity"
+        },
+        {
+          "count": 1,
+          "name": "calm"
+        },
+        {
+          "name": "Kirsten Dunst",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Charlotte Gainsbourg",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065a665cfdf21100b96fd0",
+      "title": "pulp fiction",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "multiple points of view",
+          "count": 1
+        },
+        {
+          "name": "cult movi",
+          "count": 1
+        },
+        {
+          "name": "cool quot",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "jackson"
+        },
+        {
+          "count": 1,
+          "name": "quentin tarantino"
+        },
+        {
+          "name": "Tim Roth",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Amanda Plummer",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57065cf31e1c641100eaae80",
+      "title": "jurassic park",
+      "__v": 5,
+      "likes": [
+        {
+          "name": "dinosaurs",
+          "count": 1
+        },
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "sequel"
+        },
+        {
+          "count": 1,
+          "name": "jeff goldblum"
+        },
+        {
+          "count": 1,
+          "name": "steven spielberg"
+        },
+        {
+          "name": "Sam Neill",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Laura Dern",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570661baa415d81100d01390",
+      "title": "breaking bad",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "show",
+          "count": 1
+        },
+        {
+          "name": "amc",
+          "count": 1
+        },
+        {
+          "name": "drug lord",
+          "count": 1
+        },
+        {
+          "name": "dark",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "tv show"
+        },
+        {
+          "name": "Bryan Cranston",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Anna Gunn",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57066365dd0a49110030c4fe",
+      "title": "the lord of the rings",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "hobbit",
+          "count": 1
+        },
+        {
+          "name": "elf",
+          "count": 1
+        },
+        {
+          "name": "wizard",
+          "count": 1
+        },
+        {
+          "name": "trilogy",
+          "count": 1
+        },
+        {
+          "name": "sequels",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "fantasy"
+        },
+        {
+          "name": "Christopher Guard",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "William Squire",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57066eeb10d6461100fa3870",
+      "title": "the nightmare before christmas",
+      "__v": 5,
+      "likes": [
+        {
+          "name": "tim burton",
+          "count": 1
+        },
+        {
+          "name": "johnny depp",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "fantasy"
+        },
+        {
+          "count": 1,
+          "name": "winter"
+        },
+        {
+          "count": 1,
+          "name": "snow"
+        },
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 1,
+          "name": "romance"
+        },
+        {
+          "name": "Danny Elfman",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Chris Sarandon",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Family",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706716510d6461100fa3873",
+      "title": "the social network",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "david fincher",
+          "count": 1
+        },
+        {
+          "name": "entrepreneurs",
+          "count": 1
+        },
+        {
+          "name": "soundtrack",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "technology"
+        },
+        {
+          "count": 1,
+          "name": "Jesse Eisenberg"
+        },
+        {
+          "name": "Jesse Eisenberg",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Rooney Mara",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Biography",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706699556e4e111009319a0",
+      "title": "harry potter",
+      "__v": 7,
+      "likes": [
+        {
+          "name": "emma watson",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "wizard"
+        },
+        {
+          "count": 1,
+          "name": "fantasy"
+        },
+        {
+          "count": 1,
+          "name": "daniel radcliffe"
+        },
+        {
+          "count": 1,
+          "name": "rupert grint"
+        },
+        {
+          "count": 1,
+          "name": "magic"
+        },
+        {
+          "count": 1,
+          "name": "magicians"
+        },
+        {
+          "count": 1,
+          "name": "scotl"
+        },
+        {
+          "count": 1,
+          "name": "and"
+        },
+        {
+          "count": 1,
+          "name": ""
+        },
+        {
+          "name": "Eric Sykes",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Timothy Spall",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Family",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Fantasy",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570687c10459a5110074980e",
+      "title": "eye in the sky",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "Mirren",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "Rickman"
+        },
+        {
+          "count": 1,
+          "name": "Alan Rickman"
+        },
+        {
+          "count": 1,
+          "name": "Aaron Paul"
+        },
+        {
+          "count": 1,
+          "name": "thriller"
+        },
+        {
+          "name": "Faisa Hassan",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Aisha Takow",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "War",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570688550459a5110074980f",
+      "title": "room",
+      "__v": 5,
+      "likes": [
+        {
+          "name": "Larson",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "oscar-winning"
+        },
+        {
+          "count": 1,
+          "name": "weepy"
+        },
+        {
+          "count": 1,
+          "name": "cathartic"
+        },
+        {
+          "count": 1,
+          "name": "book"
+        },
+        {
+          "count": 1,
+          "name": "comedy"
+        },
+        {
+          "name": "Brie Larson",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57068bfa31b5f911000d75a9",
+      "title": "smallville",
+      "__v": 5,
+      "likes": [
+        {
+          "name": "Tom Welling",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "tom welling"
+        },
+        {
+          "count": 1,
+          "name": "allison mack"
+        },
+        {
+          "count": 1,
+          "name": "kristin kreuk"
+        },
+        {
+          "count": 1,
+          "name": "supervillains"
+        },
+        {
+          "count": 1,
+          "name": "wb"
+        },
+        {
+          "name": "Tom Welling",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Allison Mack",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Romance",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57068f445b1e4311000da047",
+      "title": "aviator",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "biography",
+          "count": 1
+        },
+        {
+          "name": "leonardo dicaprio",
+          "count": 1
+        },
+        {
+          "name": "entrepreneurs",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "airplanes"
+        },
+        {
+          "count": 1,
+          "name": "people"
+        },
+        {
+          "count": 1,
+          "name": "rich character"
+        },
+        {
+          "count": 1,
+          "name": "character"
+        },
+        {
+          "name": "Leonardo DiCaprio",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Cate Blanchett",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Biography",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570691115ecc671100a04734",
+      "title": "interstellar",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "time travel"
+        },
+        {
+          "count": 1,
+          "name": "hathaway"
+        },
+        {
+          "count": 1,
+          "name": "christopher nolan"
+        },
+        {
+          "count": 1,
+          "name": "space"
+        },
+        {
+          "name": "Ellen Burstyn",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Matthew McConaughey",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570692225ecc671100a04735",
+      "title": "star wars",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "space",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "aliens"
+        },
+        {
+          "count": 1,
+          "name": "robots"
+        },
+        {
+          "count": 1,
+          "name": "harrison ford"
+        },
+        {
+          "count": 1,
+          "name": "sci-fi"
+        },
+        {
+          "name": "André Sogliuzzo",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Mat Lucas",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570696073809a511008425ad",
+      "title": "twelve monkeys",
+      "__v": 3,
+      "likes": [
+        {
+          "name": "plot twist",
+          "count": 1
+        },
+        {
+          "name": "brad pitt",
+          "count": 1
+        },
+        {
+          "name": "bruce willis",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "sci-fi"
+        },
+        {
+          "count": 1,
+          "name": "time travel"
+        },
+        {
+          "count": 1,
+          "name": "dystopian"
+        },
+        {
+          "name": "Joseph Melito",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Bruce Willis",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570696463809a511008425ae",
+      "title": "blade runner",
+      "__v": 0,
+      "likes": [
+        {
+          "name": "dystopian",
+          "count": 1
+        },
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "name": "Harrison Ford",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Rutger Hauer",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570696f63809a511008425b1",
+      "title": "the spanish prisoner",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "moody",
+          "count": 1
+        },
+        {
+          "name": "crime",
+          "count": 1
+        },
+        {
+          "name": "mystery",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "steve martin"
+        },
+        {
+          "name": "Campbell Scott",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Steve Martin",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "570698053809a511008425bf",
+      "title": "the matrix",
+      "__v": 2,
+      "likes": [
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "name": "dystopian",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "keanu reeves"
+        },
+        {
+          "count": 1,
+          "name": "philosophical"
+        },
+        {
+          "name": "Keanu Reeves",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Laurence Fishburne",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "57069d551993581100500e97",
+      "title": "moon",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "sci-fi",
+          "count": 1
+        },
+        {
+          "name": "plot twist",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "space"
+        },
+        {
+          "count": 1,
+          "name": "rockwell"
+        },
+        {
+          "count": 1,
+          "name": "sam rockwell"
+        },
+        {
+          "count": 1,
+          "name": "kevin spacey"
+        },
+        {
+          "name": "Sam Rockwell",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Kevin Spacey",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706a2fa5e77d011005c77d0",
+      "title": "11.22.63",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "historical science fiction story",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "james"
+        },
+        {
+          "name": "James Franco",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Sarah Gadon",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Thriller",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706a1a05e77d011005c77cf",
+      "title": "american idol",
+      "__v": 6,
+      "likes": [
+        {
+          "name": "reality",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "musical"
+        },
+        {
+          "count": 1,
+          "name": "hulu"
+        },
+        {
+          "count": 1,
+          "name": "sci-fi"
+        },
+        {
+          "count": 1,
+          "name": "series"
+        },
+        {
+          "name": "Mark Thompson",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Ryan Seacrest",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Game-Show",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Music",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Reality-TV",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706a4db5e77d011005c77d1",
+      "title": "repo man",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "crime",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "comedy"
+        },
+        {
+          "count": 1,
+          "name": "sci-fi"
+        },
+        {
+          "count": 1,
+          "name": "campy"
+        },
+        {
+          "count": 1,
+          "name": "emilio estevez"
+        },
+        {
+          "name": "Harry Dean Stanton",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Emilio Estevez",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Crime",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    }
+  ]
+}
