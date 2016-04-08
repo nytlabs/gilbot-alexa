@@ -15,7 +15,7 @@ app.launch(function(request,response) {
 
 var names = []
 for (p in knowledge.plays) {
-    names.push(knowledge.plays[p].title);
+    names.push(knowledge.plays[p].spokentitle);
 }
 
 app.dictionary = {
@@ -113,6 +113,41 @@ app.intent('HelpIntent',
     }
 );
 
+
+function numberToText(num) {
+    var map = [
+        "zero",
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "eleven",
+        "twelve",
+        "thirteen",
+        "fourteen",
+        "fifteen",
+        "sixteen",
+        "seventeen",
+        "eighteen",
+        "nineteen",
+        "twenty"
+    ];
+    if ((num > 0) && (num < map.length) {
+        return map[num];
+    }
+    else
+    {
+        return "too big";
+    }
+
+}
+
 function filter_movie(response, title){
     var filterlist = retrieveWatchingRecs(response);
     var winninglist = [];
@@ -209,7 +244,7 @@ function tryrecommending(filterlist, response) {
     {
         saveFilterList(filterlist, response);
         //prompt for more information
-        response.say ("Great; we're getting closer. Can you tell me another show, movie, or genre you like?");
+        response.say ("Great; I've narrowed my list down to "+ numberToText(filterlist.length) +". Can you tell me another show, movie, or genre you like?");
         response.shouldEndSession (false);
     }
 }

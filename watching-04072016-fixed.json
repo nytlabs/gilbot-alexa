@@ -14,7 +14,7 @@
 			"season":15,
 			"length":60,
 			"related-article":"http://www.nytimes.com/2016/01/05/arts/television/american-idol-final-season.html",
-			"description": "Dearly beloved, we are gathered here today to mourn the passing of &ldquo;American Idol.&rdquo; Or if not mourn, exactly, at least acknowledge the end of the last show America truly agreed on. After 15 seasons, &ldquo;Idol&rdquo; takes its final bow Thursday night after a surprisingly solid last outing — some strong contestants, some cogent and thoughtful commentary from the current judging panel of Keith Urban, Jennifer Lopez and Harry Connick Jr. &ldquo;Idol&rdquo; could have ended years ago and our world would have been none the poorer, but let’s pour one out for the House That Clarkson Built."
+			"description": "After 15 seasons, Idol takes its final bow Thursday night after a surprisingly solid last outing — some strong contestants, some cogent and thoughtful commentary from the current judging panel of Keith Urban, Jennifer Lopez and Harry Connick junior. Idol could have ended years ago and our world would have been none the poorer, but let’s pour one out for the House That Clarkson Built."
 		},
 		{
 			"type":"series",
@@ -27,7 +27,7 @@
 			"season":2,
 			"length":30,
 			"related-article":"http://www.nytimes.com/2016/02/02/arts/television/nahnatchka-khan-on-fresh-off-the-boat-chinese-new-year-and-michael-chang.html",
-			"description": "&ldquo;Fresh Off the Boat,&rdquo; the &rsquo;90s-set fish-out-of-water comedy, gets a lot of mileage from looking back at the pop culture obsessions of 20 years ago: Janet Jackson, Beanie Babies, and this week, &ldquo;Melrose Place.&rdquo; The episode pays homage to the Aaron Spelling soap, goofy musical cues and all."
+			"description": "Fresh Off the Boat, the nineties-set fish-out-of-water comedy, gets a lot of mileage from looking back at the pop culture obsessions of twenty years ago: Janet Jackson, Beanie Babies, and this week, Melrose Place."
 		},
 		{
 			"type":"series",
@@ -40,7 +40,7 @@
 			"season":7,
 			"length":30,
 			"kid-friendly":"true",
-			"description": "&ldquo;Fresh Off the Boat,&rdquo; the &rsquo;90s-set fish-out-of-water comedy, gets a lot of mileage from looking back at the pop culture obsessions of 20 years ago: Janet Jackson, Beanie Babies, and this week, &ldquo;Melrose Place.&rdquo; The episode pays homage to the Aaron Spelling soap, goofy musical cues and all."
+			"description": "Cartoon Network has rebooted the beloved Powerpuff Girls, and while the voice cast has changed, much of the shows charms are intact. If you are looking for a show to watch with children — a show that is fundamentally not grating, and one whose messages and premise you can get behind — yore not going to do a lot better than this."
 		},
 		{
 			"type":"film",
@@ -48,7 +48,7 @@
 			"delivery-date":"04-04-2016 21:00 EST",
 			"delivery-services":["hbo","hbonow"],
 			"archive-services":["hbogo"],
-			"title":"Mapplethorpe: Look at the Pictures",
+			"title":"Mapplethorpe - Look at the Pictures",
 			"imdb":"tt5275838",
 			"review":"http://www.nytimes.com/2016/04/04/arts/television/review-mapplethorpe-look-at-the-pictures-on-hbo-gives-context-to-controversy.html",
 			"genres":["documentary","photographer","photography"],
@@ -66,7 +66,7 @@
 			"episodes":99,
 			"length":30,
 			"kid-friendly":"true",
-			"description": "The brilliant and beloved ’90s cartoon has made its way to streaming. Warning: There are 99 episodes. Pace yourself and your children."
+			"description": "The brilliant and beloved nineties cartoon has made its way to streaming. Warning: There are ninety-nine episodes. Pace yourself and your children."
 		},
 		{
 			"type":"film",
@@ -90,18 +90,18 @@
 			"episodes":13,
 			"length":30,
 			"reason":"rewatch",
-			"description": "The Netflix series returns for its second season on Friday, April 15. Season 2 has a lot of call-backs to Season 1, and the fresher it is in your mind, the more you&rsquo;ll get out of those jokes. It&rsquo;s 13 half-hour episodes that go by in a flash — and you&rsquo;ll be surprised how many jokes you might have missed on initial viewing."
+			"description": "The Netflix series returns for its second season on Friday, April fifteenth. Season two has a lot of call-backs to Season one, and the fresher it is in your mind, the more yule get out of those jokes."
 		},
 		{
 			"type":"film",
 			"delivery":"streaming",
 			"delivery-services":["netflix"],
-			"title":"2001: A Space Odyssey",
+			"title":"Two Thousand One: A Space Odyssey",
 			"imdb":"tt0062622",
 			"review":"http://www.nytimes.com/movie/review?res=9A04E6DA1530EE3BBC4C53DFB2668383679EDE",
 			"genres":["mystery","sci-fi","Stanley Kubrick","classic"],
 			"length":142,
-			"description": "Stanley Kubrick&rsquo;s sci-fi classic. Awesome, in the original sense of the word."
+			"description": "Stanley Kubricks sci-fi classic. Awesome, in the original sense of the word."
 		},
 		{
 			"type":"film",
@@ -124,7 +124,7 @@
 			"review":"http://www.nytimes.com/movie/review?res=9B04EED6123AF934A1575AC0A9669C8B63",
 			"genres":["comedy","mockumentary","humor","funny","improvisation","improv","satire","Christopher Guest","dogs","animals"],
 			"length":90,
-			"description": "Christopher Guest&rsquo;s dog show mockumentary. Lots of improvisation, laughs, pooches."
+			"description": "Christopher Guests dog show mockumentary. Lots of improvisation, laughs, pooches."
 		},
 		{
 			"type":"film",
@@ -152,7 +152,7 @@
 			"type":"film",
 			"delivery":"streaming",
 			"delivery-services":["amazon prime"],
-			"title":"You&rsquo;ve Got Mail",
+			"title":"You've Got Mail",
 			"imdb":"tt0128853",
 			"review":"http://www.nytimes.com/movie/review?res=9505EEDE113DF93BA25751C1A96E958260",
 			"genres":["comedy","drama","romance","romantic","nostalgic","nostalgia","90s","Tom Hanks","Meg Ryan","Nora Ephron"],
@@ -168,18 +168,18 @@
 			"review":"http://www.nytimes.com/movie/review?res=9903E5DD1231F93BA15751C0A961958260",
 			"genres":["biography","crime","drama","police","mafia","Johnny Depp","Al Pacino","funny","nudity"],
 			"length":127,
-			"description": "Undercover F.B.I. agent befriends over-the-hill hit man. Crackling good"
+			"description": "Undercover F B I agent befriends over-the-hill hit man. Crackling good"
 		},
 		{
 			"type":"film",
 			"delivery":"streaming",
 			"delivery-services":["hulu"],
-			"title":"My Best Friend&rsquo;s Wedding",
+			"title":"My Best Friends Wedding",
 			"imdb":"tt0119738",
 			"review":"http://www.nytimes.com/movie/review?res=9B01E2DC153EF933A15755C0A961958260",
 			"genres":["comedy","romance","romantic","Julia Roberts","90s","nostalgic","nostalgia","Cameron Diaz"],
 			"length":105,
-			"description": "Food critic tries to break up old flame&rsquo;s engagement. Bubbly but malicious."
+			"description": "Food critic tries to break up old flames engagement. Bubbly but malicious."
 		},
 		{
 			"type":"film",

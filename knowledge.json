@@ -1,8 +1,232 @@
 {
+  "users": [
+    {
+      "_id": "5706837974350f11003e80e0",
+      "name": "U02BZFRJY",
+      "__v": 28,
+      "theme": "smallville",
+      "likes": [
+        "rupert grint",
+        "it stars rupert grint",
+        "I like rupert grint",
+        "magic",
+        "it takes place in Scotl",
+        "and",
+        "",
+        "comic",
+        "comedy",
+        "violent",
+        "al pacino",
+        "trilogy",
+        "it’s violent",
+        "Marlon Brando",
+        "Mirren",
+        "Rickman",
+        "Alan Rickman",
+        "Aaron Paul",
+        "thriller",
+        "Larson",
+        "oscar-winning",
+        "weepy",
+        "cathartic",
+        "book",
+        "bledel",
+        "Edward Herrmann",
+        "Kelly Bishop",
+        "Tom Welling",
+        "tom welling",
+        "allison mack",
+        "kristin kreuk",
+        "supervillains",
+        "wb"
+      ]
+    },
+    {
+      "_id": "570696ec3809a511008425af",
+      "name": "U02E0TEG5",
+      "theme": "the spanish prisoner",
+      "__v": 2,
+      "likes": [
+        "moody",
+        "crime",
+        "mystery",
+        "steve martin"
+      ]
+    },
+    {
+      "_id": "570697ee3809a511008425b6",
+      "name": "U02C9LA6B",
+      "__v": 0,
+      "likes": [
+        "group"
+      ]
+    },
+    {
+      "_id": "5706a09e1993581100500e9b",
+      "name": "U02BZP962",
+      "__v": 5,
+      "theme": "11.22.63",
+      "likes": [
+        "guess not yet.",
+        "reality show",
+        "competition",
+        "musical",
+        "historical science fiction story",
+        "james"
+      ]
+    },
+    {
+      "_id": "570698f51993581100500e96",
+      "name": "U03KH0X46",
+      "__v": 5,
+      "theme": "repo man",
+      "likes": [
+        "action",
+        "crime",
+        "comedy",
+        "sci-fi",
+        "campy",
+        "emilio estevez"
+      ]
+    },
+    {
+      "_id": "5706523705e77a110000a279",
+      "name": "U07D3F2FQ",
+      "theme": "borat",
+      "__v": 96,
+      "likes": [
+        "quirky",
+        "dystopian",
+        "farrell",
+        "cult movies",
+        "comedy",
+        "nudity",
+        "soundtrack",
+        "trier",
+        "wagner",
+        "visual",
+        "artistic",
+        "Kirsten Dunst",
+        "von trier",
+        "calm",
+        "musicians",
+        "actor",
+        "acting",
+        "jamie foxx",
+        "psycho character",
+        "christian bale",
+        "character",
+        "tim burton",
+        "horror",
+        "classic",
+        "japanese",
+        "multiple points of view",
+        "cool quotes",
+        "jackson",
+        "quentin tarantino",
+        "plot twist",
+        "vampire",
+        "vampires",
+        "cheesy",
+        "dinosaurs",
+        "sci-fi",
+        "sequel",
+        "jeff goldblum",
+        "steven spielberg",
+        "obscene",
+        "animation",
+        "satire",
+        "cartoon",
+        "musical",
+        "music",
+        "warner brothers",
+        "show",
+        "amc",
+        "drug lord",
+        "dark",
+        "tv show",
+        "alien",
+        "fantasy",
+        "hobbit",
+        "elf",
+        "wizard",
+        "trilogy",
+        "sequels",
+        "watson",
+        "daniel radcliffe",
+        "johnny depp",
+        "winter",
+        "snow",
+        "<@U07D3F2FQ|ethan.gahng> has renamed the channel from \"teachmemaster\" to \"newbie-learns-movies\"",
+        "christmas",
+        "romance",
+        "david fincher",
+        "twisted ending",
+        "ending scene",
+        "entrepreneurs",
+        "technology",
+        "Jesse Eisenberg",
+        "players",
+        "grotesque",
+        "david lynch",
+        "white",
+        "it’s black&amp;white",
+        "black&amp;white",
+        "rupert grint",
+        "magic",
+        "magicians",
+        "scotl",
+        "and",
+        "",
+        "superheroes",
+        "crime",
+        "al pacino",
+        "it’s a violent movie",
+        "violence",
+        "tom welling",
+        "biography",
+        "leonardo dicaprio",
+        "airplanes",
+        "people",
+        "rich character",
+        "time travel",
+        "hathaway",
+        "christopher nolan",
+        "space",
+        "aliens",
+        "robots",
+        "harrison ford",
+        "sitcom",
+        "player character",
+        "on comics",
+        "comics",
+        "brad pitt",
+        "bruce willis",
+        "keanu reeves",
+        "philosophical",
+        "rockwell",
+        "sam rockwell",
+        "kevin spacey",
+        "reality",
+        "hulu has it",
+        "hulu",
+        "james franco",
+        "series",
+        "dreams",
+        "dream",
+        "ending",
+        "ambiguous ending",
+        "anime",
+        "combat",
+        "david duchovny"
+      ]
+    }
+  ],
   "plays": [
     {
       "_id": "5706548bf750a81100625fe3",
       "title": "showgirls",
+      "spokentitle": "showgirls",
       "__v": 0,
       "likes": [
         {
@@ -29,6 +253,7 @@
     {
       "_id": "570655c921199111006494c5",
       "title": "two moon junction",
+      "spokentitle": "two moon junction",
       "__v": 0,
       "likes": [
         {
@@ -58,34 +283,9 @@
       ]
     },
     {
-      "_id": "570656b521199111006494c7",
-      "title": "nymphomaniac",
-      "__v": 0,
-      "likes": [
-        {
-          "name": "von trier",
-          "count": 1
-        },
-        {
-          "name": "Raven Alexis",
-          "count": 1,
-          "type": "actor"
-        },
-        {
-          "name": "Breanne Benson",
-          "count": 1,
-          "type": "actor"
-        },
-        {
-          "name": "Adult",
-          "count": 1,
-          "type": "genre"
-        }
-      ]
-    },
-    {
       "_id": "5706571521199111006494c8",
       "title": "shine",
+      "spokentitle": "shine",
       "__v": 1,
       "likes": [
         {
@@ -126,6 +326,7 @@
     {
       "_id": "5706574521199111006494c9",
       "title": "ray",
+      "spokentitle": "ray",
       "__v": 1,
       "likes": [
         {
@@ -174,6 +375,7 @@
     {
       "_id": "570658dc3029651100d23814",
       "title": "american psycho",
+      "spokentitle": "american psycho",
       "__v": 0,
       "likes": [
         {
@@ -208,6 +410,7 @@
     {
       "_id": "570659323029651100d23815",
       "title": "friday the 13th",
+      "spokentitle": "friday the thirteenth",
       "__v": 1,
       "likes": [
         {
@@ -248,6 +451,7 @@
     {
       "_id": "570659673029651100d23816",
       "title": "beetlejuice",
+      "spokentitle": "beetle juice",
       "__v": 1,
       "likes": [
         {
@@ -264,7 +468,7 @@
         },
         {
           "count": 1,
-          "name": "comedy"
+          "name": "comedi"
         },
         {
           "name": "Alec Baldwin",
@@ -291,6 +495,7 @@
     {
       "_id": "57065a005cfdf21100b96fce",
       "title": "dracula",
+      "spokentitle": "dracula",
       "__v": 0,
       "likes": [
         {
@@ -326,6 +531,7 @@
     {
       "_id": "57065a135cfdf21100b96fcf",
       "title": "rashomon",
+      "spokentitle": "rashomon",
       "__v": 1,
       "likes": [
         {
@@ -365,6 +571,7 @@
     {
       "_id": "57065ac35cfdf21100b96fd1",
       "title": "from dusk till dawn",
+      "spokentitle": "from dusk till dawn",
       "__v": 3,
       "likes": [
         {
@@ -374,10 +581,6 @@
         {
           "count": 1,
           "name": "plot twist"
-        },
-        {
-          "count": 1,
-          "name": "vampir"
         },
         {
           "count": 1,
@@ -412,7 +615,8 @@
     },
     {
       "_id": "57065cae1e1c641100eaae7f",
-      "title": "the twilight",
+      "title": "twilight",
+      "spokentitle": "twilight",
       "__v": 1,
       "likes": [
         {
@@ -448,6 +652,7 @@
     {
       "_id": "57065d3a1e1c641100eaae81",
       "title": "the fly",
+      "spokentitle": "the fly",
       "__v": 0,
       "likes": [
         {
@@ -488,6 +693,7 @@
     {
       "_id": "57065e401e1c641100eaae82",
       "title": "oldboy",
+      "spokentitle": "oldboy",
       "__v": 0,
       "likes": [
         {
@@ -528,6 +734,7 @@
     {
       "_id": "57065e5f1e1c641100eaae83",
       "title": "south park",
+      "spokentitle": "south park",
       "__v": 1,
       "likes": [
         {
@@ -567,6 +774,7 @@
     {
       "_id": "57065ee51e1c641100eaae84",
       "title": "the simpsons",
+      "spokentitle": "the simpsons",
       "__v": 2,
       "likes": [
         {
@@ -610,6 +818,7 @@
     {
       "_id": "570660c90c533f1100fe8785",
       "title": "animaniacs",
+      "spokentitle": "animaniacs",
       "__v": 0,
       "likes": [
         {
@@ -658,6 +867,7 @@
     {
       "_id": "570662fcdd0a49110030c4fc",
       "title": "alien",
+      "spokentitle": "alien",
       "__v": 0,
       "likes": [
         {
@@ -697,6 +907,7 @@
     {
       "_id": "57066334dd0a49110030c4fd",
       "title": "pan’s labyrinth",
+      "spokentitle": "pans labyrinth",
       "__v": 0,
       "likes": [
         {
@@ -737,6 +948,7 @@
     {
       "_id": "57066cd9f1263f1100aafdb3",
       "title": "alice in wonderland",
+      "spokentitle": "alice in wonderland",
       "__v": 1,
       "likes": [
         {
@@ -777,6 +989,7 @@
     {
       "_id": "5706704910d6461100fa3871",
       "title": "true romance",
+      "spokentitle": "true romance",
       "__v": 0,
       "likes": [
         {
@@ -813,6 +1026,7 @@
     {
       "_id": "5706713210d6461100fa3872",
       "title": "fight club",
+      "spokentitle": "fight club",
       "__v": 1,
       "likes": [
         {
@@ -847,6 +1061,7 @@
     {
       "_id": "57067eef48f90111001c3338",
       "title": "mad men",
+      "spokentitle": "mad men",
       "__v": 1,
       "likes": [
         {
@@ -877,6 +1092,7 @@
     {
       "_id": "57067fe747748311005146c6",
       "title": "eraserhead",
+      "spokentitle": "eraserhead",
       "__v": 0,
       "likes": [
         {
@@ -921,6 +1137,7 @@
     {
       "_id": "570684ae74350f11003e80e1",
       "title": "deadpool",
+      "spokentitle": "deadpool",
       "__v": 0,
       "likes": [
         {
@@ -957,6 +1174,7 @@
     {
       "_id": "570686790459a5110074980d",
       "title": "the godfather",
+      "spokentitle": "the godfather",
       "__v": 2,
       "likes": [
         {
@@ -1000,6 +1218,7 @@
     {
       "_id": "57068b2731b5f911000d75a8",
       "title": "gilmore girls",
+      "spokentitle": "gilmore girls",
       "__v": 2,
       "likes": [
         {
@@ -1039,6 +1258,7 @@
     {
       "_id": "570692685ecc671100a04736",
       "title": "how i met your mother",
+      "spokentitle": "how i met your mother",
       "__v": 1,
       "likes": [
         {
@@ -1078,6 +1298,7 @@
     {
       "_id": "570692bb5ecc671100a04737",
       "title": "batman",
+      "spokentitle": "batman",
       "__v": 2,
       "likes": [
         {
@@ -1117,6 +1338,7 @@
     {
       "_id": "5706956b3255181100bb7a22",
       "title": "superman",
+      "spokentitle": "superman",
       "__v": 0,
       "likes": [
         {
@@ -1153,6 +1375,7 @@
     {
       "_id": "5706a1485e77d011005c77ce",
       "title": "powerpuff girls",
+      "spokentitle": "powerpuff girls",
       "__v": 0,
       "likes": [
         {
@@ -1189,6 +1412,7 @@
     {
       "_id": "5706535b05e77a110000a27b",
       "title": "the lobster",
+      "spokentitle": "the lobster",
       "__v": 1,
       "likes": [
         {
@@ -1231,42 +1455,9 @@
       ]
     },
     {
-      "_id": "57065475f750a81100625fe2",
-      "title": "the room",
-      "__v": 0,
-      "likes": [
-        {
-          "name": "cult movies",
-          "count": 1
-        },
-        {
-          "name": "comedy",
-          "count": 1
-        },
-        {
-          "name": "nudity",
-          "count": 1
-        },
-        {
-          "name": "Tommy Wiseau",
-          "count": 1,
-          "type": "actor"
-        },
-        {
-          "name": "Juliette Danielle",
-          "count": 1,
-          "type": "actor"
-        },
-        {
-          "name": "Drama",
-          "count": 1,
-          "type": "genre"
-        }
-      ]
-    },
-    {
       "_id": "5706564b21199111006494c6",
       "title": "melancholia",
+      "spokentitle": "melancholia",
       "__v": 2,
       "likes": [
         {
@@ -1330,6 +1521,7 @@
     {
       "_id": "57065a665cfdf21100b96fd0",
       "title": "pulp fiction",
+      "spokentitle": "pulp fiction",
       "__v": 2,
       "likes": [
         {
@@ -1377,6 +1569,7 @@
     {
       "_id": "57065cf31e1c641100eaae80",
       "title": "jurassic park",
+      "spokentitle": "jurassic park",
       "__v": 5,
       "likes": [
         {
@@ -1429,6 +1622,7 @@
     {
       "_id": "570661baa415d81100d01390",
       "title": "breaking bad",
+      "spokentitle": "breaking bad",
       "__v": 1,
       "likes": [
         {
@@ -1481,6 +1675,7 @@
     {
       "_id": "57066365dd0a49110030c4fe",
       "title": "the lord of the rings",
+      "spokentitle": "the lord of the rings",
       "__v": 1,
       "likes": [
         {
@@ -1537,6 +1732,7 @@
     {
       "_id": "57066eeb10d6461100fa3870",
       "title": "the nightmare before christmas",
+      "spokentitle": "the nightmare before christmas",
       "__v": 5,
       "likes": [
         {
@@ -1597,6 +1793,7 @@
     {
       "_id": "5706716510d6461100fa3873",
       "title": "the social network",
+      "spokentitle": "the social network",
       "__v": 2,
       "likes": [
         {
@@ -1644,6 +1841,7 @@
     {
       "_id": "5706699556e4e111009319a0",
       "title": "harry potter",
+      "spokentitle": "harry potter",
       "__v": 7,
       "likes": [
         {
@@ -1716,6 +1914,7 @@
     {
       "_id": "570687c10459a5110074980e",
       "title": "eye in the sky",
+      "spokentitle": "eye in the sky",
       "__v": 4,
       "likes": [
         {
@@ -1768,6 +1967,7 @@
     {
       "_id": "570688550459a5110074980f",
       "title": "room",
+      "spokentitle": "room",
       "__v": 5,
       "likes": [
         {
@@ -1814,6 +2014,7 @@
     {
       "_id": "57068bfa31b5f911000d75a9",
       "title": "smallville",
+      "spokentitle": "smallville",
       "__v": 5,
       "likes": [
         {
@@ -1869,7 +2070,8 @@
     },
     {
       "_id": "57068f445b1e4311000da047",
-      "title": "aviator",
+      "title": "the aviator",
+      "spokentitle": "the aviator",
       "__v": 4,
       "likes": [
         {
@@ -1925,6 +2127,7 @@
     {
       "_id": "570691115ecc671100a04734",
       "title": "interstellar",
+      "spokentitle": "interstellar",
       "__v": 4,
       "likes": [
         {
@@ -1977,6 +2180,7 @@
     {
       "_id": "570692225ecc671100a04735",
       "title": "star wars",
+      "spokentitle": "star wars",
       "__v": 4,
       "likes": [
         {
@@ -2028,7 +2232,8 @@
     },
     {
       "_id": "570696073809a511008425ad",
-      "title": "twelve monkeys",
+      "title": "12 monkeys",
+      "spokentitle": "twelve monkeys",
       "__v": 3,
       "likes": [
         {
@@ -2085,6 +2290,7 @@
     {
       "_id": "570696463809a511008425ae",
       "title": "blade runner",
+      "spokentitle": "blade runner",
       "__v": 0,
       "likes": [
         {
@@ -2120,6 +2326,7 @@
     {
       "_id": "570696f63809a511008425b1",
       "title": "the spanish prisoner",
+      "spokentitle": "the spanish prisoner",
       "__v": 1,
       "likes": [
         {
@@ -2168,6 +2375,7 @@
     {
       "_id": "570698053809a511008425bf",
       "title": "the matrix",
+      "spokentitle": "the matrix",
       "__v": 2,
       "likes": [
         {
@@ -2211,6 +2419,7 @@
     {
       "_id": "57069d551993581100500e97",
       "title": "moon",
+      "spokentitle": "moon",
       "__v": 4,
       "likes": [
         {
@@ -2262,6 +2471,7 @@
     {
       "_id": "5706a2fa5e77d011005c77d0",
       "title": "11.22.63",
+      "spokentitle": "eleven twenty two sixty three",
       "__v": 1,
       "likes": [
         {
@@ -2302,6 +2512,7 @@
     {
       "_id": "5706a1a05e77d011005c77cf",
       "title": "american idol",
+      "spokentitle": "american idol",
       "__v": 6,
       "likes": [
         {
@@ -2354,6 +2565,7 @@
     {
       "_id": "5706a4db5e77d011005c77d1",
       "title": "repo man",
+      "spokentitle": "ree poh man",
       "__v": 4,
       "likes": [
         {
@@ -2398,6 +2610,180 @@
         },
         {
           "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706d1177f99761100ef3f6a",
+      "title": "inception",
+      "spokentitle": "inception",
+      "__v": 4,
+      "likes": [
+        {
+          "name": "dreams",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "dream"
+        },
+        {
+          "count": 1,
+          "name": "ending"
+        },
+        {
+          "count": 1,
+          "name": "ambiguous ending"
+        },
+        {
+          "count": 1,
+          "name": "leonardo dicaprio"
+        },
+        {
+          "name": "Leonardo DiCaprio",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Action",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Mystery",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5706d2fafdbaad1100950a3e",
+      "title": "spirited away",
+      "spokentitle": "spirited away",
+      "__v": 3,
+      "likes": [
+        {
+          "name": "animation",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "anime"
+        },
+        {
+          "count": 1,
+          "name": "combat"
+        },
+        {
+          "count": 1,
+          "name": "ending"
+        },
+        {
+          "name": "Rumi Hiiragi",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Miyu Irino",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Animation",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Adventure",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Family",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5707bf9b7fee7d1100503fcc",
+      "title": "californication",
+      "spokentitle": "californication",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "david duchovny",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "player character"
+        },
+        {
+          "name": "David Duchovny",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Natascha McElhone",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Drama",
+          "count": 1,
+          "type": "genre"
+        }
+      ]
+    },
+    {
+      "_id": "5707cc4d8972491100ff9b70",
+      "title": "borat",
+      "spokentitle": "borat",
+      "__v": 1,
+      "likes": [
+        {
+          "name": "comedy",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "satire"
+        },
+        {
+          "name": "Sacha Baron Cohen",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Abe Mendel",
+          "count": 1,
+          "type": "actor"
+        },
+        {
+          "name": "Comedy",
+          "count": 1,
+          "type": "genre"
+        },
+        {
+          "name": "Short",
           "count": 1,
           "type": "genre"
         }
