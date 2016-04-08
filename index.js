@@ -127,7 +127,7 @@ function filter_movie(response, title){
     winninglist = narrowByAttributes(genres, filterlist);
 
     if(winninglist.length > 0){
-        tryrecommending(winninglist);
+        tryrecommending(winninglist, response);
     }
     else
     {
@@ -147,7 +147,7 @@ function filter_genre(response, genre){
     winninglist = narrowByAttributes(genres, filterlist);
 
     if(winninglist.length > 0){
-        tryrecommending(winninglist);
+        tryrecommending(winninglist, response);
     }
     else
     {
@@ -194,27 +194,23 @@ function retrieveWatchingRecs(response){
 
 function saveFilterList(list, response){
     console.log("Saving current list");
-    //response.session('candidates', JSON.stringify(list));
+    response.session('candidates', JSON.stringify(list));
 }
 
-function tryrecommending(filterlist) {
+function tryrecommending(filterlist, response) {
     if(filterlist.length < 4){
         //pick a recommendation and give it
-        idx = get_random_int (0, num_movies - 1);
+        idx = get_random_int (0, filterlist.length - 1);
         response.say ("I would recommend " + filterlist[idx].title + ". " + filterlist[idx].description);
         response.shouldEndSession (true);
         response.send ();
     }
     else
     {
-        saveFilterList(filterlist);
+        saveFilterList(filterlist, response);
         //prompt for more information
         response.say ("Great; we're getting closer. Can you tell me another show, movie, or genre you like?");
-        if (response.session ('open_session') === 'true')
-        {
-            response.shouldEndSession (false);
-        }
-        response.send (); 
+        response.shouldEndSession (false);
     }
 }
 
