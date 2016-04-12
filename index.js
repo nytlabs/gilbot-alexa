@@ -138,7 +138,7 @@ function numberToText(num) {
         "nineteen",
         "twenty"
     ];
-    if ((num > 0) && (num < map.length) {
+    if ((num > 0) && (num < map.length)) {
         return map[num];
     }
     else
@@ -152,6 +152,12 @@ function filter_movie(response, title){
     var filterlist = retrieveWatchingRecs(response);
     var winninglist = [];
     var genres = [];
+
+    if(!title){
+        response.say ("Sorry, but I didn't understand what you said. Would you try again?")
+        response.shouldEndSession (false);
+        response.send ();
+    }
 
     // work on the filterlist
     for(p in knowledge.plays){
@@ -177,6 +183,13 @@ function filter_genre(response, genre){
     var filterlist = retrieveWatchingRecs(response);
     var winninglist = [];
     var genres = [];
+
+    if(!genre){
+        response.say ("Sorry, but I didn't understand what you said. Would you try again?")
+        response.shouldEndSession (false);
+        response.send ();
+    }
+
     genres.push({"name":genre});
 
     winninglist = narrowByAttributes(genres, filterlist);
@@ -265,6 +278,10 @@ console.log ("connecting to lambda...");
 
 // Connect to lambda
 exports.handler = app.lambda();
+
+// if you run the function from the command line with "schema" as an argument,
+// it will generate the utterances + entities Amazon needs to understand language
+// (You should redirect stdout to a file for this!)
 
 if ((process.argv.length === 3) && (process.argv[2] === 'schema'))
 {
