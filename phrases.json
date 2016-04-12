@@ -1,0 +1,54 @@
+{
+  "greeting": [
+    "Hello! ",
+    "Hi! ",
+    "Hey. "
+  ],
+  "ready": [
+    "Gill bot standing by. ",
+    "Gill bot is ready "
+  ],
+  "help": "Gill bot uses movies and television shows you like to recommend others to watch. Start by saying something like ",
+  "example": [
+    "I really liked %s",
+    "I liked %s",
+    "I loved %s",
+    "I'm looking for something like %s",
+    "What's similar to %s"
+  ],
+  "help_reprompt": "For examples, say help.  To leave, say exit. ",
+  "opener": [
+    "Let's start with something you like. ",
+    "How about we begin with something you saw recently. ",
+    "Let's get started! "
+  ],
+  "reprompt": [
+    "Still thinking? ",
+    "It doesn't have to be perfect. ",
+    "Go ahead, I won't judge. "
+  ],
+  "last_thing_watched": "Tell me something you watched that you really liked. ",
+  "another thing": "How about another, or maybe a particular genre or mood you're looking for? ",
+  "progress": [
+    "Great: I've got it down to %s choices. ",
+    "Getting closer: I've narrowed my list to %s. "
+  ],
+  "considering": [
+    "Sounds cool! ",
+    "Interesting. ",
+    "Aha..."
+  ],
+  "misheard": "Sorry; I think you were mentioning a %s, but I didn't catch what it was. Try again? ",
+  "mismatch": [
+    "I don't have anything like %s at the moment; what else do you like? ",
+    "You have interesting tastes. Let's try another? "
+  ],
+  "attr_comparison": "Let me try this: are you feeling more like %s or %s? ",
+  "suggestion": [
+    "I'd recommend %s: ",
+    "I think you'd like %s: ",
+    "I've got something - try %s. "
+  ],
+  "where_to_watch": "You can watch it on %s",
+  "recently_added": "Recently added to %s"
+}

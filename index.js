@@ -2,15 +2,17 @@ var alexa = require('alexa-app');
 var Levenshtein = require('levenshtein');
 var omdb = require('omdb');
 var fs = require('fs');
+var phrases = JSON.parse(fs.readFileSync('phrases.json', 'utf8'));
+var phr = require('pickPhrase')(phrases);
 
 var app = new alexa.app();
 var knowledge = JSON.parse(fs.readFileSync('knowledge.json', 'utf8'));
 
 app.launch(function(request,response) {
     response.session ('open_session', 'true');
-	response.say("Gilbot is ready. For help, say help.  To leave, say exit.");
+	response.say(phr.say("ready") + " " + phr.say("help_reprompt"));
     //select a random "tool" to start
-	response.shouldEndSession (false, "What would you like to know?  For examples, say help.  To leave, say exit.");
+	response.shouldEndSession (false, phr.say("reprompt") + " " + phr.say("help_reprompt"));
 });
 
 var names = []
@@ -35,7 +37,7 @@ app.intent('StartIntent',
     },
     function (request, response) {
         console.log("[StartIntent]");
-        response.say("How about we start with what you like. Give me an example of a show or movie you really enjoyed.");
+        response.say(phr.say("opener") + " " + phr.say("last_thing_watched"));
         response.shouldEndSession (false);
         response.send();
     }
@@ -47,7 +49,7 @@ app.intent('FavoriteIntent',
         "utterances": [
             "I {really |}{liked |loved |love |like }{the movie |the show |}{movie_names|TITLE}",
             "How about {the movie |the show |}{movie_names|TITLE}",
-            "What {show|movie|film|program} is {similar |most like |comparable to |like }{movie_names|TITLE}",
+            "What {show|movie|film|program} is {something |}{similar |most like |comparable to |like }{movie_names|TITLE}",
             "{What is|What's} something {that is|that's} like {movie_names|TITLE}"
         ]
     },
@@ -80,35 +82,10 @@ app.intent('HelpIntent',
         ]
     },
     function (request, response) {
-	    response.say("Gilbot uses movies and television shows you like to recommend others to watch. Start by saying something like ");
-
-        var alt = get_random_int (0, 5);
+	    response.say(phr.say("help"));
         var moviename = get_random_movie_name ();
-
-        switch (alt)
-        {
-            case 0:
-	            response.say("I really liked " + moviename);
-                break;
-            case 1:
-	            response.say("What T V show is most like " + moviename);
-                break;
-            case 2:
-	            response.say("I liked " + moviename);
-                break;
-            case 3:
-	            response.say("I loved " + moviename);
-                break;
-            case 4:
-	            response.say("What film is similar to " + moviename);
-                break;
-            case 5:
-	            response.say("What's something that's like  " + moviename);
-                break;
-        }
-
+        response.say(phr.say("example", [moviename]))
         response.shouldEndSession (false);
-
         response.send ();
     }
 );
@@ -154,7 +131,7 @@ function filter_movie(response, title){
     var genres = [];
 
     if(!title){
-        response.say ("Sorry, but I didn't understand what you said. Would you try again?")
+        response.say (phr.say("misheard", ["title"]));
         response.shouldEndSession (false);
         response.send ();
     }
@@ -173,7 +150,7 @@ function filter_movie(response, title){
     else
     {
         saveFilterList(filterlist, response);
-        response.say ("Sorry, but I don't have anything right now that's like " + title + ". What else do you like?")
+        response.say (phr.say("mismatch", [title]));
         response.shouldEndSession (false);
         response.send ();
     }
@@ -185,7 +162,7 @@ function filter_genre(response, genre){
     var genres = [];
 
     if(!genre){
-        response.say ("Sorry, but I didn't understand what you said. Would you try again?")
+        response.say (phr.say("misheard", ["genre"]));
         response.shouldEndSession (false);
         response.send ();
     }
@@ -200,7 +177,7 @@ function filter_genre(response, genre){
     else
     {
         saveFilterList(filterlist, response);
-        response.say ("Sorry, but I don't have anything right now in " + genre + ". What else do you like?")
+        response.say (phr.say("mismatch", ["a " + genre]));
         response.shouldEndSession (false);
         response.send ();
     }
@@ -249,7 +226,8 @@ function tryrecommending(filterlist, response) {
     if(filterlist.length < 4){
         //pick a recommendation and give it
         idx = get_random_int (0, filterlist.length - 1);
-        response.say ("I would recommend " + filterlist[idx].title + ". " + filterlist[idx].description);
+        response.say (phr.say("suggestion", [filterlist[idx].title]));
+        response.say (filterlist[idx].description);
         response.shouldEndSession (true);
         response.send ();
     }
@@ -257,7 +235,8 @@ function tryrecommending(filterlist, response) {
     {
         saveFilterList(filterlist, response);
         //prompt for more information
-        response.say ("Great; I've narrowed my list down to "+ numberToText(filterlist.length) +". Can you tell me another show, movie, or genre you like?");
+        response.say (phr.say("progress", [numberToText(filterlist.length)]));
+        response.say (phr.say("another thing"));
         response.shouldEndSession (false);
     }
 }
@@ -274,7 +253,7 @@ function get_random_movie_name ()
 }
 
 
-console.log ("connecting to lambda...");
+//console.log ("connecting to lambda...");
 
 // Connect to lambda
 exports.handler = app.lambda();
